@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4526",
+  "folder": "YouTube__watch_20260514151944_7e6915",
+  "base_name": "Miley_Cyrus_-_End_of_the_World_(Live_from_Chateau_Marmont)_Hbn1mFQ1Y9I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/incognito818/Cloud-Downloads1/releases/tag/co-releases-v1-4526",
+  "files": [
+    {
+      "name": "Miley_Cyrus_-_End_of_the_World_.Live_from_Chateau_Marmont._Hbn1mFQ1Y9I_720p.mp4",
+      "url": "https://github.com/incognito818/Cloud-Downloads1/releases/download/co-releases-v1-4526/Miley_Cyrus_-_End_of_the_World_.Live_from_Chateau_Marmont._Hbn1mFQ1Y9I_720p.mp4",
+      "api_url": "https://api.github.com/repos/incognito818/Cloud-Downloads1/releases/assets/420253359",
+      "id": 420253359,
+      "size": 14715451,
+      "download_count": 0
+    }
+  ]
+}
