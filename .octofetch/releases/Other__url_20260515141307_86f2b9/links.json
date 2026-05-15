@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3150",
+  "folder": "Other__url_20260515141307_86f2b9",
+  "base_name": "Other__url_20260515141307_86f2b9.bin",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/incognito818/Cloud-Downloads1/releases/tag/co-releases-v1-3150",
+  "files": [
+    {
+      "name": "Other__url_20260515141307_86f2b9.bin",
+      "url": "https://github.com/incognito818/Cloud-Downloads1/releases/download/co-releases-v1-3150/Other__url_20260515141307_86f2b9.bin",
+      "api_url": "https://api.github.com/repos/incognito818/Cloud-Downloads1/releases/assets/421055778",
+      "id": 421055778,
+      "size": 739,
+      "download_count": 0
+    }
+  ]
+}
